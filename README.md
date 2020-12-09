@@ -50,7 +50,7 @@ Deep phenotyping: deep learning for temporal phenotype/genotype classification</
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Computational-Phenotyping-Papers/blob/master/ph(25).pdf" style="text-decoration:none;">Deep Plant Phenomics: A Deep Learning Platform for Complex Plant Phenotyping Tasks</a></li>                              
  <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Computational-Phenotyping-Papers/blob/master/ph(26).pdf" style="text-decoration:none;">The Effectiveness of Multitask Learning for Phenotyping with Electronic Health Records Data</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Computational-Phenotyping-Papers/blob/master/ph(27).pdf" style="text-decoration:none;">Computational Phenotype Discovery Using Unsupervised Feature Learning over Noisy, Sparse, and Irregular Clinical Data</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Computational-Phenotyping-Papers/blob/master/ph(27).PDF" style="text-decoration:none;">Computational Phenotype Discovery Using Unsupervised Feature Learning over Noisy, Sparse, and Irregular Clinical Data</a></li>
    
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Computational-Phenotyping-Papers/blob/master/ph(28).pdf" style="text-decoration:none;">Unsupervised Pattern Discovery in Electronic Health Care Data Using Probabilistic Clustering Models</a></li>
