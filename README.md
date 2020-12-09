@@ -42,7 +42,7 @@ The Effectiveness of Multitask Learning for Phenotyping with Electronic Health R
 Deep phenotyping: deep learning for temporal phenotype/genotype classification</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Computational-Phenotyping-Papers/blob/master/ph(21).pdf" style="text-decoration:none;">Deep Learning Applied to Phenotyping of Biomass in Forages with UAV-Based RGB Imagery</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Computational-Phenotyping-Papers/blob/master/ph(22).pdf" style="text-decoration:none;"Causal Phenotype Discovery via Deep Networks</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Computational-Phenotyping-Papers/blob/master/ph(22).pdf" style="text-decoration:none;">Causal Phenotype Discovery via Deep Networks</a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Computational-Phenotyping-Papers/blob/master/ph(23).pdf" style="text-decoration:none;">Deep Computational Phenotyping</a></li> 
  
 
