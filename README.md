@@ -46,7 +46,7 @@ Deep phenotyping: deep learning for temporal phenotype/genotype classification</
  <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Computational-Phenotyping-Papers/blob/master/ph(23).pdf" style="text-decoration:none;">Deep Computational Phenotyping</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Computational-Phenotyping-Papers/blob/master/ph(24).pdf" style="text-decoration:none;">Deep Convolutional Inverse Graphics Network</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Computational-Phenotyping-Papers/blob/master/ph(24).pdf" style="text-decoration:none;">A Computable Phenotype for Acute Respiratory Distress Syndrome Using Natural Language Processing and Machine Learning</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Computational-Phenotyping-Papers/blob/master/ph(25).pdf" style="text-decoration:none;">Deep Plant Phenomics: A Deep Learning Platform for Complex Plant Phenotyping Tasks</a></li>                              
  <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Computational-Phenotyping-Papers/blob/master/ph(26).pdf" style="text-decoration:none;">The Effectiveness of Multitask Learning for Phenotyping with Electronic Health Records Data</a></li>
@@ -55,14 +55,37 @@ Deep phenotyping: deep learning for temporal phenotype/genotype classification</
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Computational-Phenotyping-Papers/blob/master/ph(28).pdf" style="text-decoration:none;">Unsupervised Pattern Discovery in Electronic Health Care Data Using Probabilistic Clustering Models</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Computational-Phenotyping-Papers/blob/master/ph(29).pdf" style="text-decoration:none;">Rubik: Knowledge Guided Tensor Factorization and Completion for Health Data Analytics</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Computational-Phenotyping-Papers/blob/master/ph(29).pdf" style="text-decoration:none;">A computational phenotype of disrupted moral inference in Borderline Personality Disorder</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Computational-Phenotyping-Papers/blob/master/ph(30).pdf" style="text-decoration:none;">Importance Weighted Autoencoders</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Computational-Phenotyping-Papers/blob/master/ph(30).pdf" style="text-decoration:none;">Computational Phenotypes: Where the Theory of Computation Meets Evo-Devo</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Computational-Phenotyping-Papers/blob/master/ph(31).pdf" style="text-decoration:none;">Deep Patient: An Unsupervised Representation to Predict the Future of Patients from the Electronic Health Records</a></li> 
     <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Computational-Phenotyping-Papers/blob/master/ph(32).pdf" style="text-decoration:none;">
 Unsupervised Learning of Disease Progression Models</a></li> 
 
    <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Computational-Phenotyping-Papers/blob/master/ph(33).pdf" style="text-decoration:none;">Deep Learning Applied to Phenotyping of Biomass in Forages with UAV-Based RGB Imagery</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Computational-Phenotyping-Papers/blob/master/ph(34).pdf" style="text-decoration:none;">Computational Phenotyping of Two-Person Interactions Reveals Differential Neural Response to Depth-of-Thought</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Computational-Phenotyping-Papers/blob/master/ph(35).pdf" style="text-decoration:none;">Development and evaluation of an EHR-based computable phenotype for identification of pediatric Crohn's disease patients in a National Pediatric Learning Health System</a></li> 
 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Computational-Phenotyping-Papers/blob/master/ph(36).pdf" style="text-decoration:none;">Development and Validation of a Phenotyping Computational Workflow to Predict the Biomass Yield of a Large Perennial Ryegrass Breeding Field Trial</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Computational-Phenotyping-Papers/blob/master/ph(37).pdf" style="text-decoration:none;">Economic probes of mental function and the extraction ofcomputational phenotypes</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Computational-Phenotyping-Papers/blob/master/ph(38).pdf" style="text-decoration:none;">Explanatory integration, computational phenotypes and dimensional psychiatry: The case of alcohol use disorder</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Computational-Phenotyping-Papers/blob/master/ph(39).pdf" style="text-decoration:none;">Computational phenotyping and longitudinal dynamics to inform clinical decision-making in psychiatry</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Computational-Phenotyping-Papers/blob/master/ph(40).pdf" style="text-decoration:none;">Impact of Diverse Data Sources on Computational Phenotyping</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Computational-Phenotyping-Papers/blob/master/ph(41).pdf" style="text-decoration:none;">Lessons Learned in the Development of a Computable Phenotype for Response in Myeloproliferative Neoplasms</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Computational-Phenotyping-Papers/blob/master/ph(42).pdf" style="text-decoration:none;">Machine learning in data abstraction: A computable phenotype for sepsis and septic shock diagnosis in the intensive care unit</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Computational-Phenotyping-Papers/blob/master/ph(43).pdf" style="text-decoration:none;">Computational phenotype prediction of ionizing-radiation-resistant bacteria with a multiple-instance learning model</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Computational-Phenotyping-Papers/blob/master/ph(44).pdf" style="text-decoration:none;">Computational Phenotyping: Using Models to Understand Individual Differences in Personality, Development, and Mental Illness</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Computational-Phenotyping-Papers/blob/master/ph(45).pdf" style="text-decoration:none;">1067: Retrospective Derivation And Validation Of A Computable Phenotype Of Nosocomial Aspiration</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Computational-Phenotyping-Papers/blob/master/ph(46).pdf" style="text-decoration:none;">A Computable Phenotype Model for Classification of Men Who Have Sex With Men Within a Large Linked Database of Laboratory, Surveillance, and Administrative Healthcare Records</a></li> 
+                             
+<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Computational-Phenotyping-Papers/blob/master/ph(47).pdf" style="text-decoration:none;">Effective diagnosis of genetic disease by computational phenotype analysis of the disease-associated genome</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Computational-Phenotyping-Papers/blob/master/ph(48).pdf" style="text-decoration:none;">Unsupervised Learning for Computational Phenotyping</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Computational-Phenotyping-Papers/blob/master/ph(49).pdf" style="text-decoration:none;">Why everyone should care about "Computable Phenotypes"</a></li>
+                              
   </ul>
